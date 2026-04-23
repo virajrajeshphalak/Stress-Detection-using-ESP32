@@ -10,7 +10,7 @@
 const char* ssid = "Viraj's S25+";
 const char* password = "Viraj123456";
 
-String apiKey = "EZMDAUILFSF1L4OA";
+String apiKey = "6GHKNKRMOKYQHPG2";
 const char* server = "api.thingspeak.com";
 
 // ================= PINS =================
